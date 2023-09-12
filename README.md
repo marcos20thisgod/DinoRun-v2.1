@@ -3,9 +3,9 @@ by Marcos Cardoza
 <!DOCTYPE html>
 <html>
   <head>
-    <title>DinoRun</title>
+    <title>DinoRun v1.1</title>
     <style>
-      #game {
+      #game   
         width: 400px;
         height: 230px;
         border: 1px solid black;
